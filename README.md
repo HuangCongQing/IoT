@@ -7,7 +7,18 @@
 
 物联网平台有哪些
 
+* [ 阿里云IoT - 所知不止于感知](https://iot.aliyun.com/)
+* [天工-物联网平台-物联网云-百度智能云](https://cloud.baidu.com/solution/iot/index.html)
+* [小米IoT开发者平台](https://iot.mi.com/index.html)
+* [OneNET -中国移动物联网开放平台](https://open.iot.10086.cn/)
+* [华为物联网平台](https://developer.huawei.com/ict/cn/site-oceanconnect-next)
+* [ NETALL-CCS开放物联网平台](http://www.ccsiot.com/)
+* [T*link物联网*-工业物联网平台](https://www.tlink.io/)
+
+
+
 ### 互联网领域 :
+
 
 * 阿里云—Link物联网平合
 
@@ -50,15 +61,15 @@
 
 
 * 中国通信服务—CCS开放物联网平台
- [ NETALL-CCS开放物联网平台](http://www.ccsiot.com/)
-
+ [NETALL-CCS开放物联网平台](http://www.ccsiot.com/)
+  
 ![image.png](https://upload-images.jianshu.io/upload_images/4340772-dd5efe7be1570c9c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ----
 
 
-
+  
 
 
 * [T*link物联网*-工业物联网平台](https://www.tlink.io/)
